@@ -1,0 +1,247 @@
+/*@media (max-width: 350px) {
+    :root {*/
+* {
+  margin: 0;
+}
+
+@import "https://fonts.googleapis.com/css?family=Lato:400,700";
+
+a{
+  text-decoration: none;
+}
+a:visited{
+  color: black;
+}
+
+body{
+  background-color: #eee;
+    font-family: 'Lato', sans-serif;
+    margin 0;
+
+
+}
+main{
+  margin-top: 150px;
+  margin-bottom: 0;
+
+}
+header{
+
+  margin-top: 0;
+}
+nav{
+
+  background-color: #eee;
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+
+
+
+
+
+
+}
+nav ul{
+  margin-left: 850px;
+
+
+
+}
+nav li{
+  display: inline;
+  padding: 20px;
+  position: relative;
+  bottom: 50px;
+
+
+
+
+}
+
+footer{
+  text-align: center;
+  background-color: #ddd;
+  height: 88px;
+  margin-bottom: 0;
+  margin-top: 40px;
+  margin-right: 49px;;
+  margin-left: 49px;;
+
+}
+footer p{
+  margin-right: 15px;
+  margin-top: 0px;
+  padding-top: 0px;
+  font-size: 10px;
+
+
+
+
+}
+footer ul{
+  padding-top: 33px;
+  padding-right: 10px;
+
+}
+footer li{
+  display: inline;
+  padding-right: 10px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.just-right{
+  margin-bottom: 10px;
+}
+.footer-div{
+  text-align: right;
+}
+.nav-title{
+display: inline;
+position: relative;
+bottom: 27px;
+left: 5px;
+
+}
+
+.top-section{
+  text-align: center;
+  margin-bottom: 150px;
+
+
+
+}
+.nav-div{
+
+  margin-top: 0;
+
+
+}
+
+.trash-pic{
+  height: 30px;
+  width: auto;
+  display: inline;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 75px;
+  position: relative;
+  top: 17px;
+  border: 5px;
+  border-style: solid;
+  border-color: orange;
+  border-radius: 50%;
+}
+
+.feature {
+margin-bottom: 75px;
+margin-right: 150px;
+
+}
+.feature-head{
+  display: inline;
+  text-align: left;
+}
+.feature-p{
+  text-align: left;
+  margin-left:318px;
+  margin-top: 0
+
+
+}
+.vid-div{
+  text-align: center;
+  margin-bottom: 75px;
+}
+.baby-daddy-momma{
+  background-color: #ddd;
+  padding: 20px;
+  margin-top: 0;
+}
+.ad-box{
+  border: 1px;
+  border-style: solid;
+  width: 30%;
+  height: auto;
+  margin-right: 50px;
+  padding-bottom: 50px;
+
+}
+.price-boxes{
+display: flex;
+text-align: center;
+margin-left: 50px;
+}
+.price-p{
+  text-align: left;
+  margin-left: 20px;
+}
+.dolla-bills{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.btn{
+  width: 100px;
+  height: 35px;
+  background-color: orange;
+  border: 0;
+  border-radius: 10px;
+
+}
+#btn-baby{
+  margin-top: 100px;
+}
+#btn-momma{
+  margin-top: 81px;
+}
+#btn-daddy{
+  margin-top: 24px;
+}
+#email{
+  width: 300px;
+  height: auto;
+  border: 0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#nav-p-feat{
+
+
+
+}
+#nav-p-how{
+
+}
+#nave-p-price{
+
+}
+#video{
+
+}
+#submit{
+  display: block;
+  text-align: center;
+  margin: auto;
+  background-color: orange;
+  width: 150px;
+  padding: 8px;
+  border:0;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+
+
+#header-img{
+  height: 60px;
+  width: auto;
+  display: inline;
+  border: 5px;
+  border-style: solid;
+  border-color: orange;
+  border-radius: 10px;
+
+
+}
